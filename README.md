@@ -1,2 +1,2 @@
 # Algo
-Algorithms and Data structures lab. 1 sem
+Algorithms and Data structures labs. 1 sem
